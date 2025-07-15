@@ -3,5 +3,5 @@ This is where I extensively worked on the Capstone Project answering some data q
 
 ## TOOLS USED 
 
-- Ms Excel for Data Extraction,Cleaning and Transformation
+- Ms Excel for Data Extraction,Cleaning and Transformation and Pivot Table
 - SQL Server for (Querying and Analysis).
